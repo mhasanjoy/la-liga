@@ -1,0 +1,27 @@
+.player-card{
+    width: 300px;
+    height: 500px;
+    text-align: center;
+}
+.player img{
+    height: 200px;
+    width: 300px;
+}
+.player{
+    border: 1px solid gray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.select-button{
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+    color: white;
+    border-radius: 5px;
+    border: darkblue;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.icon{
+    margin-right: 10px;
+}
